@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .heading {
+    padding: 1rem 4rem;
+    background-color: aqua;
+  }
+  .result {
+    padding: 1rem 4rem;
+    background-color: aqua;
+  }
+  .box {
+    background-color: aqua;
+  }
+  
